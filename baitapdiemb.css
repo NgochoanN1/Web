@@ -86,20 +86,15 @@
 
 
 }
-
-#nav-account a {
-    /* margin: 30px; */
+#nav-account a{
+  
     text-align: center;
     letter-spacing: normal;
-}
-
-#nav-account a {
     color: blue;
     flex: 1;
     padding: 20px;
     border: 1px solid beige;
     border-radius: 10px;
-    
 }
 
 #nav-account a:link {
@@ -112,8 +107,6 @@
     padding-left: 10px;
     padding-right: 10px;
 }
-
-
 
 #nav-account a:hover {
     color: black;
